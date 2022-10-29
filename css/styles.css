@@ -208,4 +208,28 @@ font-family: 'Roboto';
     background: #FFFFFF;
     border: 1px solid #EEEEEE;}
 
-    .current { color: #2196F3;}
+.current { color: #2196F3;}
+
+.cards > a > h2 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 36px;
+    
+        letter-spacing: 0.06em;
+    
+        color: #212121; }
+
+.cards > a > p  { 
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: 0.03em;
+        color: #757575;
+}
+.all {
+    background-color: #2196F3; 
+    color: #FFFFFF; ;}
