@@ -23,8 +23,8 @@
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-
-    color: #2196F3;}
+    color: #212121
+    }
 
 .nav-portfolio , .nav-contacts {
                 
@@ -48,7 +48,6 @@ li {list-style: none;}
             font-size: 14px;
             line-height: 16px;
             letter-spacing: 0.02em;
-            
             color: #2196F3; }
             
 .mailto:hover { text-decoration:underline}
@@ -190,3 +189,23 @@ font-family: 'Roboto';
             color: rgba(255, 255, 255, 0.6);
     }
 .mailto-footer:hover , .tel-footer:hover { text-decoration: underline;}
+
+
+.button-filter { 
+        background: #F5F4FA;
+        border-radius: 4px; 
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+        
+}
+.cards { 
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;}
+
+    .current { color: #2196F3;}
