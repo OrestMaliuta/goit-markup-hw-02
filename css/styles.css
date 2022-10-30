@@ -245,7 +245,6 @@ font-family: 'Roboto';
         color: #757575;
 }
 
-.all:active {
-    background-color: #2196F3; 
-    color: #FFFFFF; ;
+.button-filter:hover {
+    background-color: #2196F3;  
 }
